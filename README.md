@@ -132,8 +132,7 @@ https://linkedin.com/in/sabarithan-palanivel-302852293/
 🌐 Portfolio: [portfolio-blush-theta-53.vercel.app](https://portfolio-blush-theta-53.vercel.app/)
 
 💻 LeetCode:
-[https://www.linkedin.com/in/sabarithan-palanivel-302852293/](https://leetcode.com/u/Sabarithan/)
-
+https://leetcode.com/u/Sabarithan/
 ---
 
 
