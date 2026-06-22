@@ -129,16 +129,13 @@ Fast desktop file searching with:
 💼 LinkedIn:
 https://linkedin.com/in/sabarithan-palanivel-302852293/
 
-🌐 Portfolio:portfolio-blush-theta-53.vercel.app
+🌐 Portfolio: [portfolio-blush-theta-53.vercel.app](https://portfolio-blush-theta-53.vercel.app/)
 
 💻 LeetCode:
 [YOUR_LEETCODE_LINK](https://www.linkedin.com/in/sabarithan-palanivel-302852293/)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SABARITHAN-P&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   <b>"Building software that matters."</b>
